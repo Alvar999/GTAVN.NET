@@ -1,0 +1,25 @@
+./includes/ngg.pwn(14960) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+./includes/ngg.pwn(15174) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+./includes/ngg.pwn(53147) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(53172) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(53181) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(53216) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(53251) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(70853) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(70858) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(73533) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(73959) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(73960) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(107647) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/ngg.pwn(29112) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â GiftPlayer
+./includes/ngg.pwn(18475) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â SetPlayerSpawn
+./includes/ngg.pwn(14710) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â CuffTackled
+D:\pawno\include\YSI\y_amx.inc(264) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â AMX_GetGlobal
+./includes/ngg.pwn(26209) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â SendCallToQueue
+./includes/ngg.pwn(25797) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â SendReportToQue
+./includes/ngg.pwn(8863) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â PokerRotateActivePlayer
+Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:9.
